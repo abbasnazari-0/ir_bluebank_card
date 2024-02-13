@@ -3,12 +3,12 @@ import 'package:flip_card/flip_card_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:gap/gap.dart';
-import 'package:ir_bank_card/common/color_styles.dart';
-import 'package:ir_bank_card/components/card_alert_dialog.dart';
-import 'package:ir_bank_card/components/card_input_formatter.dart';
-import 'package:ir_bank_card/components/card_month_input_formatter.dart';
-import 'package:ir_bank_card/components/special_fa_text.dart';
-import 'package:ir_bank_card/components/special_text.dart';
+import 'package:ir_bluebank_card/common/color_styles.dart';
+import 'package:ir_bluebank_card/components/card_alert_dialog.dart';
+import 'package:ir_bluebank_card/components/card_input_formatter.dart';
+import 'package:ir_bluebank_card/components/card_month_input_formatter.dart';
+import 'package:ir_bluebank_card/components/special_fa_text.dart';
+import 'package:ir_bluebank_card/components/special_text.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

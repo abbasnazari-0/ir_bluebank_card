@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ir_bank_card/common/color_concepts.dart';
+import 'package:ir_bluebank_card/common/color_concepts.dart';
 
 class ColorStyle {
   static CardColorConcepts blackColor = CardColorConcepts(
